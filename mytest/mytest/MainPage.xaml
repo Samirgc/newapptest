@@ -5,8 +5,8 @@
              x:Class="mytest.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-    	<Label Text="Welcome to Xamarin.Forms!" 
+        
+    	<Label Text="Welcome to Xamarin.Forms! and testing of Android" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
